@@ -1,4 +1,4 @@
-package daythree.ScannerDemo;
+package daythree.scannerdemo;
 
 public class TaxCalculation {
 	// function to calculate tax

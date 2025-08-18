@@ -1,4 +1,4 @@
-package daythree.Constructor;
+package daythree.constructor;
 import java.util.Scanner;
 
 public class ConstructorDemo {
